@@ -1,6 +1,6 @@
-Knex.js Migrations & Seeds
+#Knex.js Migrations & Seeds
 
-###This repository provides a simple example of how to structure Knex.js migration and seed files for a PostgreSQL database based on the following ERD:
+This repository provides a simple example of how to structure Knex.js migration and seed files for a PostgreSQL database based on the following ERD:
 
 ```
 
